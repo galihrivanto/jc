@@ -95,6 +95,7 @@ parsers: List[str] = [
     'lspci',
     'lsusb',
     'm3u',
+    'mbox',
     'mdadm',
     'mount',
     'mpstat',
